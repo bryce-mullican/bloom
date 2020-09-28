@@ -1,0 +1,20 @@
+/* 
+Dark Blue: #26292e
+Pink: #e7718b
+Light Pink: #fbe3e8
+Light Gray: #f4f4f6
+*/
+
+.branding, .colophon {
+    background: #26292e;
+    color: #f4f4f6;
+}
+
+.hero {
+    background: #e7718b;
+}
+
+.services {
+    background: #f4f4f6;
+    border-bottom: 4px solid #fbe3e8;
+}
